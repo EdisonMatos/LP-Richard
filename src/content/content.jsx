@@ -123,7 +123,7 @@ const content = {
             <path d="m16 18 2 2 4-4" />
           </svg>
         ),
-        text: "Atendimento Online 24h",
+        text: "Atendimento Presencial e Online 24h",
       },
       ctaButtonAriaLabel:
         "Botão para chamada de ação para contato pelo whatsapp",
@@ -322,7 +322,8 @@ const content = {
       },
       miniTag: "QUEM É O DR RICHARD MÁRIO",
       title: "Minha trajetória",
-      subtitle: "Comprometimento, experiência e uma abordagem personalizada.",
+      subtitle:
+        "Advogado criminalista com especialidade em execução penal , inscrito nos quadros da ordem dos advogados do Brasil do estado de Santa Catarina (OAB/SC 70972)",
       paragraph: (
         <div>
           Formado em 2023 pela Unisul (Universidade do Sul de Santa Catarina),
